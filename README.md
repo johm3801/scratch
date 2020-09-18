@@ -16,5 +16,6 @@
 <br><br/>
 마찬가지 방법으로 'Glass water', 'Monkey' 스프라이트를 생성해줍니다.
 ![scr3](./images/3.png)
-
+<br><br/>
+<br><br/>
 ### 배경 만들기
