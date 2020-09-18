@@ -14,7 +14,7 @@
 좌측상단의 '모양'에서 확인해보면 위와 같이 'cat flying-a', 'cat flying-b'가 추가된 것을 확인할 수 있습니다.
 <br><br/>
 <br><br/>
-![scr3](./images/3.png)
 마찬가지 방법으로 'Glass water', 'Monkey' 스프라이트를 생성해줍니다.
+![scr3](./images/3.png)
 
 ### 배경 만들기
